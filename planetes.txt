@@ -1,7 +1,6 @@
 Terre
 Saturne
 Mercure
-Pluton
 Venus
 Mars
 Jupiter
